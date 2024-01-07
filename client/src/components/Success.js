@@ -3,7 +3,7 @@ import "./Success.css";
 import { NavLink } from "react-router-dom";
 import img from "./img/tick.png";
 
-const Sucess = () => {
+const Success = () => {
   return (
     <div className="box1">
       <img src={img} alt="logo" />
@@ -23,4 +23,4 @@ const Sucess = () => {
   );
 };
 
-export default Sucess;
+export default Success;
