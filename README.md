@@ -1,5 +1,7 @@
 # FoodCourt
 
+# Stripe Payment Integration Added also
+
 
 # Getting Started with Create React App
 
